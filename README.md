@@ -4,7 +4,7 @@
 A movie search application that allows users to search for movies, view trending movies, and display movie details. The app fetches data from The Movie Database (TMDb) API.
 
 ```bash
-# TMDb don't work in india so use api
+# TMDb don't work in india so use vpn
 ```
 
 ## Features
