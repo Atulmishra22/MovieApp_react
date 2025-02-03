@@ -46,7 +46,6 @@ const App = () => {
 
         }
         const data = await response.json();
-        console.log(data.results)
         if(data.Response === 'false'){
           setErrorMessage(data.Error || 'Failed to fetch Movies');
           setMovieList([]);
