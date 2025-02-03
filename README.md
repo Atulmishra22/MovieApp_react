@@ -1,6 +1,9 @@
 # Movie Search App
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/28972b63-e405-420f-bc9c-16b620ca1051/deploy-status.svg?branch=main)](https://aesthetic-sable-094114.netlify.app/)
+![Hero Image](public/websiteImage1.png)
+
+
+
 
 ## Description
 A movie search application that allows users to search for movies, view trending movies, and display movie details. The app fetches data from The Movie Database (TMDb) API.
@@ -8,6 +11,7 @@ A movie search application that allows users to search for movies, view trending
 ```bash
 # TMDb don't work in india so use vpn
 ```
+![Hero Image](public/websiteImage2.png)
 
 ## Features
 - Search for movies by title.
