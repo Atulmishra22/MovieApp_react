@@ -1,5 +1,7 @@
 # Movie Search App
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/aesthetic-sable-094114.netlify.app/)](https://aesthetic-sable-094114.netlify.app/)
+
 ## Description
 A movie search application that allows users to search for movies, view trending movies, and display movie details. The app fetches data from The Movie Database (TMDb) API.
 
